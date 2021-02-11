@@ -1,5 +1,3 @@
-# Curve on Zinc
 
-The **Curve Stableswap** smart contract implementation in **Zinc v0.2.2**.
-
+#Da-Fi yDAI v4 Zinc Integration
 The official [Zinc book](https://zinc.zksync.io/).
